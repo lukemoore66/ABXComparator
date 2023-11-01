@@ -27,7 +27,7 @@ Follow the instructions outlined in the top-right hand corner of the interface:
 4. The user must determine if X sounds like A or B. To do so, they must click either the **X sounds like A** button or the **X sounds like B** button.
 5. The **Next** button will now be unlocked. If the user clicks it, they will move onto the next sample for comparison. The user cannot go back to reassess completed comparisons.
 
-Repeat this process until all 10 music clips have been tested. After which, yu can view the results either in the GUI, or via the `results.txt` file inside the program directory.
+Repeat this process until all 10 music clips have been tested. After which, you can view the results either in the GUI, or via the `results.txt` file inside the program directory.
 
 The **Reset** button may be used to reset any results and return to the beginning of the entire process. 
 
